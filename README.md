@@ -1,5 +1,5 @@
-# Box-Shadow-Generator
-Box Shadow Generator - Javascript
+**Box Shadow Generator Javascript**
+Box shadow generator app made using HTML, CSS and Javascript
 
-#--Live Demo--
+**--LIVE DEMO--**
 https://boxshadowgenerator-kharvey.netlify.app/
